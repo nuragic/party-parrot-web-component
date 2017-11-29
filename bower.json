@@ -1,0 +1,16 @@
+{
+  "name": "party-parrot-web-component",
+  "version": "1.0.0",
+  "description": "Party Parrot Web Component",
+  "main": "party-parrot-web-component.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nuragic/party-parrot-web-component.git"
+  },
+  "keywords": [
+    "party-parrot",
+    "web-components"
+  ],
+  "authors": "Andrea Puddu <me@nuragic.io>",
+  "license": "MIT"
+}
