@@ -1,5 +1,8 @@
 # `<party-parrot>`
 
+[![Published on webcomponents.org](https://img.shields.io/badge/webcomponents.org-published-blue.svg)](https://www.webcomponents.org/element/nuragic/party-parrot-web-component)
+
+
 Include the parrot in your pages without hassle!
 
 ## Install
