@@ -7,7 +7,13 @@ Include the parrot in your pages without hassle!
 
 ## Install
 
-`npm install party-parrot-web-component` or `yarn install party-parrot-web-component`.
+Run one of the following (depending on your package manager):
+
+`npm install party-parrot-web-component --save`
+
+`yarn add party-parrot-web-component`
+
+`bower install party-parrot-web-component --save`
 
 
 ## Add
